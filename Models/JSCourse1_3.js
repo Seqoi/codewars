@@ -11,7 +11,7 @@ let currentUser = admin;
 
 const BIRTHDAY = '14.05.1997';//Здесь заглавными так как дата известна
 //с самого начала
-// const age = someCode(BIRTHDAY);//А тут мы узнаем возраст только после
+// const age = someCode(BIRTHDAY); А тут мы узнаем возраст только после
 //исполнения кода
 
 //3-rd day
